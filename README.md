@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Data Scientist & AI Engineer** with ~2 years of hands-on experience building end-to-end ML and GenAI systems. I specialize in turning complex data problems into production-ready AI solutions — from RAG pipelines and multi-agent systems to real-time fraud detection and computer vision applications.
+I'm a passionate **Data Scientist & AI Engineer** with 2.5+ years of hands-on experience building end-to-end ML and GenAI systems. I specialize in turning complex data problems into production-ready AI solutions — from RAG pipelines and multi-agent systems to real-time fraud detection and computer vision applications.
 
 - 💼 Currently working at **Bluegem IT Solution** as an AI/Data Science Engineer
 - 🤖 Building with **LLMs, LangChain, LangGraph, RAG architectures, and Agentic AI**
