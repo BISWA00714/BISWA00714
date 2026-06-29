@@ -11,8 +11,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 Welcome to my GitHub! I'm Biswa, a driven Data Scientist & AI Engineer passionate about 
 building intelligent systems that solve real-world problems. I specialize in end-to-end 
 AI development — from training classical ML models to deploying production-grade LLM and 
