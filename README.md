@@ -11,15 +11,26 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Data Scientist & AI Engineer** with 2.5+ years of hands-on experience building end-to-end ML and GenAI systems. I specialize in turning complex data problems into production-ready AI solutions — from RAG pipelines and multi-agent systems to real-time fraud detection and computer vision applications.
+## 👨‍💻 About Me
 
-- 💼 Currently working at **Bluegem IT Solution** as an AI/Data Science Engineer
-- 🤖 Building with **LLMs, LangChain, LangGraph, RAG architectures, and Agentic AI**
-- ⚙️ Passionate about **MLOps**, model observability, and scalable deployment
-- 🧪 Experienced across the full stack — **FastAPI · React · Docker · Kafka · MLflow**
-- 🌱 Always exploring new frontiers in **Generative AI, Vector Databases, and AI Agents**
-- 📫 Reach me at: **sbiswajit1926@gmail.com**
+Welcome to my GitHub! I'm Biswa, a driven Data Scientist & AI Engineer passionate about 
+building intelligent systems that solve real-world problems. I specialize in end-to-end 
+AI development — from training classical ML models to deploying production-grade LLM and 
+RAG-powered applications. I believe AI is most powerful when it's explainable, scalable, 
+and directly tied to business impact.
 
+As a builder in the AI space, I bridge the gap between raw data and intelligent automation 
+— designing systems that don't just predict, but reason, retrieve, and act. Whether it's 
+a multi-agent medical assistant, a drug interaction detection platform, or a real-time 
+fraud detection pipeline, I approach every problem with engineering rigor and a product mindset.
+
+- 💼 Data Scientist & AI Engineer | 2.5+ years in Data & AI
+- 🤖 Building production-grade systems with **LLMs, RAG, LangChain, LangGraph & Agentic AI**
+- ⚙️ Experienced in deploying scalable solutions with **FastAPI, Docker, Kafka & MLflow**
+- 🔍 Passionate about **MLOps, Generative AI**, and real-world AI automation
+- 📚 Always exploring **AI Agents, Vector Databases, and Multi-modal AI**
+- 💬 Open to collaborations on GenAI, MLOps, or data-centric AI applications
+- 📫 Reach me at: **swainsbiswajit007@gmail.com**
 ---
 
 ## 🚀 Featured Projects
